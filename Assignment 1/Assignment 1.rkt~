@@ -1,0 +1,9 @@
+#lang racket
+
+; Assignment 1
+; By: Liam Murphy
+
+(define beginning?
+  (lambda (list_a list_b)
+    (cond [(= (car list_a) (car list_b)) #t]
+     [else 

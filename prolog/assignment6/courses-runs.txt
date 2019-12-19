@@ -1,0 +1,17 @@
+[Wed Nov 06] [10:36:16] [liam@Liams-MacBook-Pro-2] ~/Documents/Marquette Files/Junior/COSC 3410/prolog/assignment6
+$ swipl
+Welcome to SWI-Prolog (threaded, 64 bits, version 8.0.3)
+SWI-Prolog comes with ABSOLUTELY NO WARRANTY. This is free software.
+Please run ?- license. for legal details.
+
+For online help and background, visit http://www.swi-prolog.org
+For built-in help, use ?- help(Topic). or ?- apropos(Word).
+
+?- [courses].
+course(english,120,johnson,lecturn)
+course(science,200,smith,models)
+course(math,105,whitherspoon,blackboard)
+course(history,233,adams,projector)
+true.
+
+?- 
